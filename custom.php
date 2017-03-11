@@ -1,0 +1,29 @@
+﻿<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>百度网盘搜索</title>
+<meta name="keywords" content="百度网盘搜索,百度搜索,google搜索,谷歌搜索,baigoogledu, 百Google度" />
+<meta name="description" content="百度网盘搜索|百度搜索|google搜索|sousuoa|网盘搜索|360网盘搜索|微云网盘搜索"/>
+<style>html{overflow-y:scroll} div,td,.n a,.n a:visited{ color:#000 } .ts td,.tc{padding:0} .ts,.tb{border-collapse:collapse} .ti{display:inline-table} .hd{position:absolute;width:1px;height:1px;top:-1000em;overflow:hidden} .f{ color:#00f } .flc,a.fl{ color:#00f } a,.w,.q:visited,.q:active,.q,.b a,.b a:visited,a.fl:visited, .l2 a:visited { color:#00f } a:visited{color:#639} a:active{color:#00f} .vst:link{color:#551a8b} .t{ background:#fff; color:#000; padding:5px 1px } .bb{border-bottom:1px solid #369} .bt{border-top:1px solid #369} .j{width:34em} .h{ color:#36c font-size: } .i{color:#00f} .z{display:none} div.n{margin-top:20px} .n a,.n .i{font-size:10pt} .n .i,.b a{font-weight:bold} #navbar a{display:block} .std{font-size:82%} .xsm{font-size:67%} #np,#nn,.nr,#logo span, .ch{cursor:pointer;cursor:hand} .lst{ font-family:arial,sans-serif; font-size:17px; vertical-align:middle } .lsb{ font-family:arial,sans-serif; font-size:15px; height:1.85em; padding:0 8px; vertical-align:middle } .ta{padding:3px 3px 3px 5px} #tpa2,#tpa3,#tpa4{padding-top:9px} #guser{font-size:84%;padding:0 0 4px;text-align:right} a.gb1,a.gb2,a.gb3,.link{ color:#00f!important } .sl,.r{display:inline;font-weight:normal;margin:0} .sl{font-size:84%} .r{font-size:100%} .e{margin:.75em 0} .csb,.n div,#logo span,.ss,#rptglbl{ background:url(/images/srpr/nav_logo80.png) no-repeat; overflow:hidden } .csb,.n div,#logo span{ background-position:0 0; height:40px } .n .nr{ background-position:-74px 0; width:20px } #np{width:53px} #nf{ background-position:-24px 0; width:28px } #nc{ background-position:-53px 0; width:20px } #nn{ margin-right:34px; width:71px } #nl{width:45px} #nn,#nl{background-position:-96px 0} #logo{ display:block; height:49px; margin:13px 0 7px; overflow:hidden; position:relative; width:137px } #logo span{ background-position:0 -41px; height:100%; left:0; position:absolute; top:0; width:100% } #rso>li{display:table-row} #rso>li>div{display:table-cell} em,.rbt b,.ta b,.ra b,#res .g b,#res .g em,.tas b,.taf b,.tam b,.tal b{ color:#c03;font-style:normal;font-weight:normal } a em,.rbt a b,.ta a b,.ra a b,#res .g h2.r b,.tas a b,.taf a b,.tam a b,.tal a b{ text-decoration:underline } #cnt{ max-width:80em; clear:both } body,td,div,.p,a{ font-family:arial,sans-serif } #res,#res .j{line-height:120%} #res .std{line-height:146%} .g{margin:1em 0 1.2em} #sd{font-size:84%;font-weight:bold} #ap{font-size:84%} #res{padding-left:.5em} #rso .g{margin:.5em 0} #rso{margin:.5em 0}</style><script>
+        window['curwt'] = function(t, ct) {
+          try {
+            if (t === window) {
+              t = window.event.srcElement;
+              while (t) {
+                if (t.href) {
+                  break;
+                }
+                t = t.parentNode;
+              }
+            }
+            t.href = ct;
+            t.onmousedown = '';
+          } catch (e) {
+          }
+          return true;
+        }
+      </script></head><body bgcolor="#ffffff" topmargin="2" marginheight="2" text="#000000" link="#0000ff" vlink="#663399" alink="#0000ff"
+      >
+    <div align="center"><table width="100%" border="0" cellspacing="0" cellpadding="1"><tr><td><div align="right"><a href="https://www.google.com/adsense/support/bin/request.py?contact=afs_violation&amp;url=http%3A//209.85.228.22/custom%3Fhl%3Dzh-CN%26inlang%3Dzh-CN%26newwindow%3D1%26client%3Dpub-651163035859441%26cof%3DFORID%3A1%253BGL%3A1%253BLBGC%3A336699%253BLC%3A%25230000ff%253BVLC%3A%2523663399%253BGFNT%3A%25230000ff%253BGIMP%3A%25230000ff%253BDIV%3A%2523336699%253B%26ie%3DGB2312%26oe%3DGB2312%26btnG%3DGoogle%2B%25E6%2590%259C%25E7%25B4%25A2%26sitesearch%3Dpan.baidu.com%26q%3D%26start%3D0%26num%3D10&amp;client=pub-651163035859441&amp;hl=zh-CN"><font size="-2">��ҳ��ʲô��</font></a></div></td></tr></table><table border="0" align=""><tr><td><table class="tb" style="clear:left" width="100%"><tr><form name="gs" method="GET" action="/custom"><td class="tc" valign="top"></td><td style="padding:0 0 7px;padding-left:8px" width="100%" valign="top"><table class="tb"><tr><td class="tc" colspan="2" height="14" valign="bottom"></td></tr><tr><td class="tc" nowrap><input type=hidden name=inlang value="zh-CN"><input type=hidden name=newwindow value="1"><input type=hidden name=client value="pub-651163035859441"><input type=hidden name=cof value="FORID:1;GL:1;LBGC:336699;LC:#0000ff;VLC:#663399;GFNT:#0000ff;GIMP:#0000ff;DIV:#336699;"><input type=hidden name=sitesearch value="pan.baidu.com"><input type=hidden name=hl value="zh-CN"><input type=hidden name=ie value="GB2312"><input type=hidden name=oe value="GB2312"><input type="text" name="q" size="38" maxlength="2083" value="" title="Google ����"> <input type="submit" name="btnG" value="Google ����"></td><td class="tc" nowrap width="100%"><span id="ap"></span></td><td>&nbsp;&nbsp;</td><td nowrap valign="middle" align="right" height="34px"><div style="font-size:9px;font-weight:bolder;color:#000000">ǿ������</div><a href="http://www.google.com"><img alt="Google" border="0" align="right" src="/images/poweredby_transparent/poweredby_FFFFFF.gif"></a></td></tr></table></td></form></tr></table></td></tr></table><br clear="all"></div><style>
+      .s br{display:none}
+      
+          .a{color:green}
+        </style><div id="res"><br clear="all"></div><center><p></p><hr class="z"><div style="padding:2px" class="t n bt"><font size="-1">&#169;2013 Google</font></div><br></center></body></html>

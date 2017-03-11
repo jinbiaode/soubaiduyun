@@ -1,0 +1,98 @@
+<HTML><HEAD><TITLE></TITLE>
+<META http-equiv=Content-Type content="text/html; charset=UTF-8">
+<SCRIPT>
+	
+	
+	
+		function Submit_onclickl()
+        {
+	       if(parent.document.getElementById('myFrame').cols=="50%,11,*")
+	        {
+		       parent.document.getElementById('myFrame').cols="0,11,*";
+		       document.getElementById("ImgArrow").src="images/right2.gif";
+			   document.getElementById("ImgArrow1").src="images/right.gif";
+	        }
+
+			else if(parent.document.getElementById('myFrame').cols=="0,11,*")
+	        {
+				if(screen.width>1024)
+					parent.document.getElementById('myFrame').cols = "1280,11,*";
+				else if(screen.width>800)	
+					parent.document.getElementById('myFrame').cols = "1280,11,*";
+				else
+					parent.document.getElementById('myFrame').cols = "1280,11,*";  
+ 		       document.getElementById("ImgArrow").src="images/left2.gif";
+		       document.getElementById("ImgArrow1").src="images/left.gif";		   
+	        }			
+	   else
+	     {
+			
+					parent.document.getElementById('myFrame').cols = "0,11,*";
+		       document.getElementById("ImgArrow").src="images/right2.gif";
+		       document.getElementById("ImgArrow1").src="images/right.gif";   
+	     }
+       }
+		function Submit_onclickr()
+        {
+	       if(parent.document.getElementById('myFrame').cols=="50%,11,*")
+	        {
+				if(screen.width>1024)
+					parent.document.getElementById('myFrame').cols = "1280,11,*";
+				else if(screen.width>800)	
+					parent.document.getElementById('myFrame').cols = "1280,11,*";
+				else
+					parent.document.getElementById('myFrame').cols = "1280,11,*";  
+		       document.getElementById("ImgArrow").src="images/left2.gif";
+		       document.getElementById("ImgArrow1").src="images/left.gif";			   
+	        }
+	   else if(parent.document.getElementById('myFrame').cols=="0,11,*")
+	        {
+						    parent.document.getElementById('myFrame').cols="50%,11,*"
+		       document.getElementById("ImgArrow").src="images/left.gif";
+			 document.getElementById("ImgArrow1").src="images/right.gif";	   
+	        }
+		else 
+	     {
+				 parent.document.getElementById('myFrame').cols="50%,11,*"
+		       document.getElementById("ImgArrow").src="images/left.gif";
+		       document.getElementById("ImgArrow1").src="images/right.gif";		
+	     }
+       }
+	   
+       function MyLoad() 
+       {
+			if(window.parent.location.href.indexOf("MainUrl")>0)
+			{
+				window.top.midFrame.document.getElementById("ImgArrow").src="images/left.gif";
+				window.top.midFrame.document.getElementById("ImgArrow1").src="images/right.gif";				
+			}
+		}
+		</SCRIPT>
+</HEAD>
+<BODY leftMargin=0 topMargin=0 onload=MyLoad()>
+<TABLE height="100%" cellSpacing=0 cellPadding=0 width=10 border=0>
+  <TBODY>
+    <TR>
+      <TD width=3 background=images/middle.gif></TD>
+      <TD width=8></TD>
+    </TR>
+    <TR>
+      <TD colSpan=2 height=24><A href="javascript:Submit_onclickr()"><IMG 
+      id=ImgArrow1 src="images/right.gif" width=11 border=0 
+      name=ImgArrow1></A></TD>
+    </TR>    <TR height=3>
+      <TD width=3 background=images/middle.gif></TD>
+      <TD width=8></TD>
+    </TR>
+    <TR>
+      <TD colSpan=2 height=24><A href="javascript:Submit_onclickl()"><IMG 
+      id=ImgArrow src="images/left.gif" width=11 border=0 
+      name=ImgArrow></A></TD>
+    </TR>
+    <TR>
+      <TD width=3 background=images/middle.gif></TD>
+      <TD width=8></TD>
+    </TR>
+  </TBODY>
+</TABLE>
+</BODY></HTML>

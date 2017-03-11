@@ -1,0 +1,29 @@
+﻿@charset "utf-8";
+
+#search_result{ width:770px; float: left; margin-left:30px;}
+#result_bottom{width:770px;float:right;}
+.gsc-resultsHeader,.gs-watermark,.gsc-search-box,.gsc-tabsArea{display:none;} /*隐藏按钮*/
+.gsc-result-info{font-size:13px;color:#333;border-bottom:#CCC solid 1px;margin-bottom:15px; width:770px;}/*横线*/
+#cse-search-form{ display:none;}
+/*搜索内容显示*/
+.gsc-tabsArea, .gsc-clear-button, .gsc-tabHeader, .gsc-resultsHeader, .gsc-trailing-more-results, a.gsc-trailing-more-results,.gs-watermark {display: none;}/*隐藏网络文字*/
+.gsc-resultsbox-visible{width:600px;}/*搜索结果*/
+.gsc-webResult.gsc-result,.gsc-results .gsc-imageResult {;padding-bottom:15px;}
+.gs-webResult.gs-result a.gs-title:link,.gs-imageResult a.gs-title:link{font-size:16px;color: #1F4FCD;text-decoration:underline;}/*标题颜色*/
+.gs-webResult.gs-result a.gs-title:link b,.gs-imageResult a.gs-title:link b{color:#F00;} /*标题加红*/
+.gs-webResult.gs-result a.gs-title:visited,.gs-imageResult a.gs-title:visited{color: #993399;}/*链接状态*/
+.gs-webResult.gs-result a.gs-title:hover,.gs-webResult.gs-result a.gs-title:hover b,.gs-imageResult a.gs-title:hover,.gs-imageResult a.gs-title:hover b {color: #B10F0D;}/*链接加红*/
+.gs-webResult.gs-result a.gs-title:active,.gs-webResult.gs-result a.gs-title:active b,.gs-imageResult a.gs-title:active,.gs-imageResult a.gs-title:active b {color: #B10F0D;}/*链接加红*/
+.gs-webResult.gs-result a.gs-title:link b,.gs-title:visited b{ color: #B10F0D;}/*链接颜色*/
+.gs-webResult div.gs-visibleUrl-short {display: none;}/*隐藏多余域名*/
+.gsc-thumbnail-left{display: none;}/*隐藏多余标题*/
+.gsc-url-top{display: none;}/*隐藏多余网址*/
+.gs-snippet{ line-height:18px; font-size:13px; color:#333; margin-top:3px;}/*结果摘要*/
+.gs-title b,.gs-snippet b{font-weight: normal; color:#B10F0D; }/*关键字颜色*/
+.gs-webResult div.gs-visibleUrl-long {display: block;color:#008000 !important; line-height:20px; width:90%; overflow:hidden; height:20px; font-size:14px;}/*网址颜色*/
+/* 分页 */
+.gsc-cursor-box{ height:100%; margin:5px 0 10px 80px; text-align:center;overflow:hidden;}
+.gsc-cursor{vertical-align:middle; height:100%; overflow:hidden; width:380px; margin:6px auto;}
+.gsc-cursor-page, .gsc-cursor-current-page{border: #BCCDF0 2px solid; padding:2px 5px 2px 5px; margin: 0px 6px; color: #000;text-decoration: none; cursor:pointer; line-height:18px; float:left;}
+.gsc-cursor-page:hover{background:#BCCDF0;cursor: pointer;}
+.gsc-cursor-current-page {border: #BCCDF0 2px solid; padding:2px 5px 2px 5px;font-weight: bold;color: #fff;background-color: #BCCDF0;}
